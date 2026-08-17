@@ -31,3 +31,4 @@ The dashboard is divided into three main analytical modules:
 * **Effectivity Map:** A scatter plot correlating Alpha with Volatility, visually identifying investment "bargains" that offer the most favorable Return/Risk Ratio.
 
 ![Correlations & Strategy](correlation.jpg)
+_
